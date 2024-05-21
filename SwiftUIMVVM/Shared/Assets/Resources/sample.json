@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "Sunflowers Bunch (Deluxe)",
+    "price": 24.99,
+    "description": "A vibrant bunch of 7-10 sunflowers, perfect for a statement piece. Includes filler flowers and decorative wrapping.",
+    "category": "Cut Flowers",
+    "imageUrl": "https://data-pawan-public.s3.amazonaws.com/API's/Images/sunflower.png",
+    "isInStock": true,
+    "seasonal": true,
+    "careInstructions": {
+      "water": "Change water every 2-3 days",
+      "light": "Full sun to partial shade"
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 120
+    },
+    "highlights": [
+      "5-7 large, vibrant sunflowers",
+      "Freshly cut and long-lasting",
+      "Available in various stem lengths",
+      "Includes filler flowers and decorative wrapping"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Roses (Premium Dozen, Rainbow Mix)",
+    "price": 39.99,
+    "description": "A stunning mix of 12 premium roses in various vibrant colors, guaranteed to make a lasting impression.",
+    "category": "Cut Flowers",
+    "imageUrl": "https://data-pawan-public.s3.amazonaws.com/API's/Images/roses.jpg",
+    "isInStock": true,
+    "origin": "Ecuador",
+    "occasion": ["Valentine's Day", "Birthday", "Anniversary"],
+    "rating": {
+      "rate": 4.7,
+      "count": 520
+    },
+    "highlights": [
+      "12 long-stem premium roses in assorted colors",
+      "Fresh and fragrant",
+      "Available in various bud sizes",
+      "Luxurious and eye-catching"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Peace Lily Plant (Large)",
+    "price": 34.99,
+    "description": "A beautiful and air-purifying plant, this large peace lily is perfect for adding a touch of elegance to any space.",
+    "category": "Plants",
+    "imageUrl": "https://data-pawan-public.s3.amazonaws.com/API's/Images/Lily.png",
+    "isInStock": true,
+    "potSize": "6 inch",
+    "toxicity": "Mildly toxic to pets",
+    "rating": {
+      "rate": 4.2,
+      "count": 80
+    },
+    "highlights": [
+      "Elegant white flowers",
+      "Easy to care for",
+      "Improves indoor air quality",
+      "Large size makes a statement"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Orchid Arrangement (Phalaenopsis)",
+    "price": 49.99,
+    "description": "A stunning arrangement featuring a Phalaenopsis orchid plant, blooming in a variety of vibrant colors.",
+    "category": "Plants",
+    "imageUrl": "https://data-pawan-public.s3.amazonaws.com/API's/Images/orchid.jpg",
+    "isInStock": false,
+    "availability": "Coming soon",
+    "careInstructions": {
+      "water": "Water once a week with ice cubes",
+      "light": "Indirect sunlight"
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 30
+    },
+    "highlights": [
+      "Elegant and long-lasting orchid plant",
+      "Blooming in various vibrant colors",
+      "Beautiful and sophisticated arrangement"
+    ]
+  }
+]
